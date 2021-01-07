@@ -9,7 +9,5 @@ A simple app used to practice my HTML, CSS and JavaScript skills
 •	Learned about lazy loading to optimize user experience
 •	Practiced responsive web development with the use of media queries
 
-
-
 Click link for project 
 https://mendozadesign.github.io/Infinite-Scroll/

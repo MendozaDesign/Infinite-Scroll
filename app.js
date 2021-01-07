@@ -1,4 +1,4 @@
-const imageContainer = document.getElementById('Image-Container');
+const imageContainer = document.getElementById('image-container');
 const loader = document.getElementById('loader');
 
 let ready = false;

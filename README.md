@@ -1,6 +1,6 @@
 Infinite Pugs
 
-A simple app used to practice my HTML, CSS and JavaScript skills
+A fun app used to practice my HTML, CSS and JavaScript skills
 
 •	Learned to fetch JSON formatted data from the Unsplash API
 •	Dynamically inserted photos into DOM on initial load
